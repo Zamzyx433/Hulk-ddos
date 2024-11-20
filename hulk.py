@@ -98,7 +98,7 @@ def inc_counter():
 
 
 
-	request_counter+=1
+	request_counter+=5
 
 
 
