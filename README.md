@@ -5,8 +5,8 @@
 pkg update
 pkg upgrade
 pkg install git
-git clone https://github.com/Zamzyx433/gabut-buat-Hulk-ddos.git
-cd gabut-buat-Hulk-ddos
+git clone https://github.com/Zamzyx433/Hulk-ddos.git
+cd Hulk-ddos
 python2 hulk.py
 
 ```
